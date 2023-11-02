@@ -1,0 +1,64 @@
+header a{
+    text-decoration: none;
+    background-color:#32476b ;
+    color: aliceblue;
+    padding: 0px 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.FantasticParty{
+color:#1a325c;
+border: 7px solid #2731c2;
+border-radius: 15px;
+
+
+}
+
+footer{
+    background-color:#ede07b ;
+}
+footer p{
+background-color: #98b7ed;
+border-radius: 10px;
+}
+
+nav{
+    background-color:#a9bbd9 ;
+    border-radius: 10px;
+    border: 7px solid #8fa2c2;
+}
+
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.tobar {
+  background-color:#5673a6;
+  
+}
+
+.lolol {
+    color:#5b6387;
+border: 7px solid #2731c2;
+border-radius: 15px;
+
+}
+
+.plp {
+    color:#11257d;
+border: 7px solid #2731c2;
+
+}
+
+.lop{
+    background-color:#5673a6;
+    border-radius: 15px;
+}
+
+.lpopik {
+    text-decoration: none;
+    background-color:#c5e1eb ;
+    border-radius: 15px;
+}
